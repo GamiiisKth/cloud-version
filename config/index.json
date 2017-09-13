@@ -1,0 +1,4 @@
+{
+	"dbUri": "mongodb://admin:YIDYDPUITJORPPDV@sl-us-south-1-portal.5.dblayer.com:19529,sl-us-south-1-portal.1.dblayer.com:19529/admin?ssl=true",
+	"jwtSecret": "a secret phrase!!"
+}
